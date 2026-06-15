@@ -1,14 +1,40 @@
-# 
+```bash
+$ ./vxnesv --info
 
-Estudante de Análise e Desenvolvimento de Sistesmas.
+██╗   ██╗██╗  ██╗███╗   ██╗███████╗███████╗██╗   ██╗
+██║   ██║╚██╗██╔╝████╗  ██║██╔════╝██╔════╝██║   ██║
+██║   ██║ ╚███╔╝ ██╔██╗ ██║█████╗  ███████╗██║   ██║
+╚██╗ ██╔╝ ██╔██╗ ██║╚██╗██║██╔══╝  ╚════██║╚██╗ ██╔╝
+ ╚████╔╝ ██╔╝ ██╗██║ ╚████║███████╗███████║ ╚████╔╝
+  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝  ╚═══╝
 
-### Conecte-se comigo
+══════════════════════════════════════════════════════════════════
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/vanessa-fittipaldi/)
+Role            :: Information Systems @ FIAP
+Focus           :: Cybersecurity / AppSec
+Experience      :: Security & Privacy
+Status          :: Learning
 
+──────────────────────────────────────────────────────────────────
 
+BACKGROUND
+
+> security 
+> privacy
+> risk_assessment 
+> risk_analysis 
+> training 
+
+══════════════════════════════════════════════════════════════════ 
+Run ./vxnesv --linkdein for contact
+```
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vanessa-fittipaldi/)
 
 ### GitHub Stats
+<div>
+<a href="https://github.com/vxnesv">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxnesv&layout=compact&langs_count=7&theme=graywhite"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vxnesv&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vxnesv&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vxnesv&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
