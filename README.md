@@ -1,31 +1,32 @@
 ```bash
 $ ./vxnesv --info
 
-██╗   ██╗██╗  ██╗███╗   ██╗███████╗███████╗██╗   ██╗
-██║   ██║╚██╗██╔╝████╗  ██║██╔════╝██╔════╝██║   ██║
-██║   ██║ ╚███╔╝ ██╔██╗ ██║█████╗  ███████╗██║   ██║
-╚██╗ ██╔╝ ██╔██╗ ██║╚██╗██║██╔══╝  ╚════██║╚██╗ ██╔╝
- ╚████╔╝ ██╔╝ ██╗██║ ╚████║███████╗███████║ ╚████╔╝
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝  ╚═══╝
+   ┌─[ vxnesv ]─────────────────────┐
+   │......... ... .... ..... .......│
+   │........... \ | / ...... .......│
+   │........... (o_o) ...... .......│
+   │........... /|_|\ ...... .......│
+   │......... ... .... ..... .......│
+   └────────────────────────────────┘
 
-══════════════════════════════════════════════════════════════════
+═══════════════════════════════════════════════════════════════
 
 Role            :: Information Systems @ FIAP
 Focus           :: Cybersecurity / AppSec
-Experience      :: Security & Privacy
-Status          :: Learning
+Experience      :: Security, Privacy & Risk (GRC)
+Status          :: Building security skills & mobile
 
-──────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────
 
 BACKGROUND
 
-> security 
-> privacy
-> risk_assessment 
-> risk_analysis 
-> training 
+> Information Security & Privacy
+> ISO 27001 / ISO 27701
+> Risk Analysis
+> Data Protection
+> Security Awareness & Training 
 
-══════════════════════════════════════════════════════════════════ 
+════════════════════════════════════════════════════════════════
 Run ./vxnesv --linkdein for contact
 ```
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/vanessa-fittipaldi/)
