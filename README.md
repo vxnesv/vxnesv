@@ -12,7 +12,7 @@ $ ./vxnesv --info
 ═══════════════════════════════════════════════════════════════
 
 Role            :: Information Systems @ FIAP
-Focus           :: Cybersecurity / AppSec
+Focus           :: Cybersecurity / Purple Team
 Experience      :: Security, Privacy & Risk (GRC)
 Status          :: Building security skills & mobile
 
